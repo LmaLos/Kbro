@@ -1,0 +1,24 @@
+{ 
+    "format": 1, 
+    "info": "FCL (Fexcraft Common Library) Config File", 
+    "general": { 
+        "example_recipes": { 
+            "info": "Should FCL testing/example recipes in the Crafting block be enabled?", 
+            "value": true
+        }, 
+        "url-textures": { 
+            "info": "Should URL (http/online) textures be enabled in dependent mods?", 
+            "value": true
+        }, 
+        "shared-files": { 
+            "info": "Location of the 'shared-files' folder relative to server root, if you have mods using the FCL Server Hosted Files Feature.", 
+            "value": "/fcl/shared-files/"
+        }
+    }, 
+    "testing": { 
+        "example_recipes": { 
+            "info": "Should FCL testing/example recipes in the Crafting block be enabled?", 
+            "value": true
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "rolesPermissions" : {
+    "default" : [ "Allow SensorMode", "Allow RopeMode", "Allow ScaleMode", "Allow StripMode", "Allow SchemMode", "Allow GravChangerMode", "Allow MassChangerMode", "Allow SyncRotation", "Allow ShipRemoverMode", "Allow ConnectionMode", "Allow HydraulicsMode", "Allow SliderMode", "Allow ThrusterMode", "Allow DisableCollisionsMode", "Allow PhysRopeMode" ]
+  },
+  "playersRoles" : {
+    "86ae70fb-f899-38c0-a75d-c970b6fc16e3" : {
+      "uuid" : "86ae70fb-f899-38c0-a75d-c970b6fc16e3",
+      "nickname" : "Sfog",
+      "role" : "default"
+    }
+  },
+  "allRoles" : [ "default" ]
+}

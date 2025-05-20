@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "4ac067f7-440f-3bb6-96e2-23f0ec02d025",
+    "name": "Kick_Reyatgr",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5ba7c392-1ed6-39e8-83c7-1568b01fd1e5",
+    "name": "YanHJ",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7adaba5c-5ce1-35cf-8b51-6dbb55c94038",
+    "name": "reyatgr",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "823acfab-2884-37bb-8d41-0f44c7182d71",
+    "name": "kickreyatgr",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "86ae70fb-f899-38c0-a75d-c970b6fc16e3",
+    "name": "Sfog",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
