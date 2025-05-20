@@ -122,3 +122,5 @@
 [20May2025 03:08:18.920] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
 [20May2025 03:08:19.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
 [20May2025 03:08:19.922] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sfog (86ae70fb-f899-38c0-a75d-c970b6fc16e3) successfully connected to voice chat
+[20May2025 03:15:09.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the time to 1000]
+[20May2025 03:16:56.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> Bro para tener kalatitos pe
