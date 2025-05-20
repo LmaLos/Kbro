@@ -102,3 +102,10 @@
 [20May2025 02:12:29.343] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [20May2025 02:12:29.343] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 3105
 [20May2025 02:12:32.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20May2025 02:25:25.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kick_Reyatgr[/127.192.126.155:44771] logged in with entity id 333 at (827.1445411788353, 89.0, 176.67246380605826)
+[20May2025 02:25:25.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kick_Reyatgr joined the game
+[20May2025 02:25:26.594] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kick_Reyatgr (18)
+[20May2025 02:25:26.599] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kick_Reyatgr
+[20May2025 02:25:39.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
+[20May2025 02:25:40.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
+[20May2025 02:25:40.191] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kick_Reyatgr (4ac067f7-440f-3bb6-96e2-23f0ec02d025) successfully connected to voice chat

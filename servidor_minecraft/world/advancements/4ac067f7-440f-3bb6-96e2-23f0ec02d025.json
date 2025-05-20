@@ -2877,18 +2877,6 @@
     },
     "done": true
   },
-  "framedblocks:recipes/building_blocks/framed_centered_slab_rotate_to_framed_centered_panel": {
-    "criteria": {
-      "hasFramedCenteredSlab": "2025-05-19 17:46:02 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_slab_from_framed_centered_slab": {
-    "criteria": {
-      "hasFramedCenteredSlab": "2025-05-19 17:46:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_calcite_brick_stairs": {
     "criteria": {
       "has_small_calcite_bricks": "2025-05-19 17:07:42 +0000"
@@ -2904,6 +2892,18 @@
   "create:recipes/building_blocks/small_calcite_brick_wall": {
     "criteria": {
       "has_small_calcite_bricks": "2025-05-19 17:07:42 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_centered_slab_rotate_to_framed_centered_panel": {
+    "criteria": {
+      "hasFramedCenteredSlab": "2025-05-19 17:46:02 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_from_framed_centered_slab": {
+    "criteria": {
+      "hasFramedCenteredSlab": "2025-05-19 17:46:02 +0000"
     },
     "done": true
   },
