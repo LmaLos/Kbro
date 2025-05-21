@@ -112,3 +112,4 @@
 [21May2025 14:29:10.066] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
 [21May2025 14:29:11.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
 [21May2025 14:29:11.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sfog (86ae70fb-f899-38c0-a75d-c970b6fc16e3) successfully connected to voice chat
+[21May2025 14:49:58.221] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Sfog/pilar.nbt
