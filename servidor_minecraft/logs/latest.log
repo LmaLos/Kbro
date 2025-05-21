@@ -109,3 +109,11 @@
 [21May2025 04:30:06.739] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
 [21May2025 04:30:07.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
 [21May2025 04:30:07.742] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kick_Reyatgr (4ac067f7-440f-3bb6-96e2-23f0ec02d025) successfully connected to voice chat
+[21May2025 05:22:39.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sfog[/127.168.202.157:34549] logged in with entity id 5545 at (613.2565409015326, 79.08477359179025, 211.385998894744)
+[21May2025 05:22:39.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog joined the game
+[21May2025 05:22:47.640] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sfog (18)
+[21May2025 05:22:47.641] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sfog
+[21May2025 05:23:22.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
+[21May2025 05:23:23.820] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
+[21May2025 05:23:23.821] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sfog (86ae70fb-f899-38c0-a75d-c970b6fc16e3) successfully connected to voice chat
+[21May2025 05:24:22.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> donde el palacio perra
