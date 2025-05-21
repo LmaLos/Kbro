@@ -102,3 +102,10 @@
 [21May2025 03:38:48.122] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'int-judges.gl.at.ply.gg:3105'
 [21May2025 03:38:48.122] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [21May2025 03:38:48.123] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 3105
+[21May2025 04:29:52.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kick_Reyatgr[/127.192.126.155:40749] logged in with entity id 649 at (611.9007654069391, 79.07494752720683, 212.24287730721775)
+[21May2025 04:29:52.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kick_Reyatgr joined the game
+[21May2025 04:29:54.024] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kick_Reyatgr (18)
+[21May2025 04:29:54.026] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kick_Reyatgr
+[21May2025 04:30:06.739] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
+[21May2025 04:30:07.737] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
+[21May2025 04:30:07.742] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kick_Reyatgr (4ac067f7-440f-3bb6-96e2-23f0ec02d025) successfully connected to voice chat
