@@ -19629,3 +19629,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21May2025 06:38:48.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21May2025 06:38:48.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21May2025 06:39:26.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> nosete escucha bro
+[21May2025 06:42:21.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> otra vez Bro
+[21May2025 06:43:48.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 06:43:48.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 06:44:20.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> jaja
+[21May2025 06:45:49.254] [Worker-Main-78/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21May2025 06:45:49.254] [Worker-Main-78/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[21May2025 06:46:13.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to Kick_Reyatgr]
+[21May2025 06:48:48.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 06:48:48.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
