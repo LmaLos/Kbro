@@ -135,3 +135,13 @@
 [22May2025 16:46:49.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog lost connection: Disconnected
 [22May2025 16:46:49.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog left the game
 [22May2025 16:46:49.690] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog
+[22May2025 16:54:47.039] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42204177[id=<null>,name=capy_1,properties={},legacy=false] (/127.88.147.52:36817) lost connection: Disconnected
+[22May2025 16:56:12.252] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: capy_1[/127.88.147.52:56399] logged in with entity id 14406 at (773.654201091447, 70.0, 234.07041352653795)
+[22May2025 16:56:12.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capy_1 joined the game
+[22May2025 16:56:14.825] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of capy_1 (18)
+[22May2025 16:56:14.825] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to capy_1
+[22May2025 16:56:30.618] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d74a5eab-b6a1-361a-86b8-03f2bee41cc4
+[22May2025 16:56:31.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d74a5eab-b6a1-361a-86b8-03f2bee41cc4
+[22May2025 16:56:31.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player capy_1 (d74a5eab-b6a1-361a-86b8-03f2bee41cc4) successfully connected to voice chat
+[22May2025 16:59:28.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capy_1> al toque
+[22May2025 16:59:31.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <capy_1> pasa cords
