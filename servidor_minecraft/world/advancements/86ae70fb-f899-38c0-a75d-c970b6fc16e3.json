@@ -3342,9 +3342,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "fried_egg": "2025-05-21 15:12:30 +0000"
+      "has_wood_slab": "2025-05-21 14:42:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_calcite_slab": "2025-05-21 14:56:24 +0000"
     },
     "done": true
   },
@@ -3354,9 +3360,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_slab_recycling": {
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
-      "has_polished_cut_calcite_slab": "2025-05-21 14:56:24 +0000"
+      "fried_egg": "2025-05-21 15:12:30 +0000"
     },
     "done": true
   },
@@ -3372,15 +3378,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-05-21 14:42:28 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-05-21 15:12:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-05-22 15:33:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-05-22 15:33:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs": {
+    "criteria": {
+      "has_polished_cut_calcite": "2025-05-22 15:33:35 +0000"
     },
     "done": true
   },
