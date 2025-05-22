@@ -169,3 +169,5 @@
 [22May2025 17:36:09.695] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
 [22May2025 17:36:10.698] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
 [22May2025 17:36:10.698] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sfog (86ae70fb-f899-38c0-a75d-c970b6fc16e3) successfully connected to voice chat
+[22May2025 17:48:19.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: capy_1 has made the advancement [Sweet Dreams]
+[22May2025 17:49:10.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sfog> ya parece la avenid expres
