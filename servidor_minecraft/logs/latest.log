@@ -117,3 +117,4 @@
 [22May2025 04:12:07.965] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
 [22May2025 04:12:08.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4ac067f7-440f-3bb6-96e2-23f0ec02d025
 [22May2025 04:12:08.968] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kick_Reyatgr (4ac067f7-440f-3bb6-96e2-23f0ec02d025) successfully connected to voice chat
+[22May2025 04:29:37.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kick_Reyatgr: Set the time to 1000]
