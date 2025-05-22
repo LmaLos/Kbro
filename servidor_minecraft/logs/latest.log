@@ -160,3 +160,12 @@
 [22May2025 17:28:20.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to capy_1: SERVER SE CIERRA EN 5 MINUTOS
 [22May2025 17:29:10.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Kick_Reyatgr: pa llantesr
 [22May2025 17:29:10.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to capy_1: pa llantesr
+[22May2025 17:32:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Kick_Reyatgr: capi por que haces eso , reynold no lo piede ha4? te esta usando
+[22May2025 17:32:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to capy_1: capi por que haces eso , reynold no lo piede ha4? te esta usando
+[22May2025 17:35:24.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sfog[/127.168.202.157:33365] logged in with entity id 17837 at (739.0764220173212, 100.2853545512799, 228.32846464089494)
+[22May2025 17:35:24.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog joined the game
+[22May2025 17:35:30.903] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Sfog (18)
+[22May2025 17:35:30.903] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Sfog
+[22May2025 17:36:09.695] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
+[22May2025 17:36:10.698] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86ae70fb-f899-38c0-a75d-c970b6fc16e3
+[22May2025 17:36:10.698] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Sfog (86ae70fb-f899-38c0-a75d-c970b6fc16e3) successfully connected to voice chat
