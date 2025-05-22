@@ -127,3 +127,11 @@
 [22May2025 15:58:05.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the time to 1000]
 [22May2025 16:11:04.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the time to 1000]
 [22May2025 16:21:02.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kick_Reyatgr: Set the time to 1000]
+[22May2025 16:35:40.701] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/11163, l='ServerLevel[world]', x=1063.60, y=102.00, z=-415.42]
+[22May2025 16:36:39.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to Kick_Reyatgr]
+[22May2025 16:36:53.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the weather to clear]
+[22May2025 16:36:56.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Set the time to 1000]
+[22May2025 16:41:56.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sfog: Teleported Sfog to Kick_Reyatgr]
+[22May2025 16:46:49.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sfog lost connection: Disconnected
+[22May2025 16:46:49.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sfog left the game
+[22May2025 16:46:49.690] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Sfog
