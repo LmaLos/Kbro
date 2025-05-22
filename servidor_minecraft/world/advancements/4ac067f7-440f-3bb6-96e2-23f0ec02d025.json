@@ -2907,15 +2907,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_calcite_slab_recycling": {
-    "criteria": {
-      "has_polished_cut_calcite_slab": "2025-05-21 06:51:54 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/bamboo_cabinet": {
     "criteria": {
       "has_bamboo_trapdoor": "2025-05-21 06:44:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_calcite_slab": "2025-05-21 06:51:54 +0000"
     },
     "done": true
   },
