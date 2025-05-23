@@ -6020,3 +6020,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23May2025 02:00:00.175] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:ai.task.replace_streams.WeightedListMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [23May2025 02:00:00.248] [Server thread/DEBUG] [mixin/]: Mixing ai.poi.tasks.HideInHomeTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.LocateHidingPlace
 [23May2025 02:00:00.248] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:ai.poi.tasks.HideInHomeTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[23May2025 02:01:43.247] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$0a30b2106328405d98d7491ec38e2b0b (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[23May2025 02:02:56.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 02:02:56.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23May2025 02:07:56.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23May2025 02:07:56.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
